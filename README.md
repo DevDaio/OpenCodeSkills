@@ -13,13 +13,13 @@ Sammlung von [OpenCode](https://opencode.ai) Skills.
 | [repo-skiller](./repo-skiller/) | Baut komplette Lern-Repositories aus vorhandenem Code | selbst erstellt |
 | [repo-to-comprehensive-walkthrough](./repo-to-comprehensive-walkthrough/) | 8-stufiger Lernpfad (Archäologie → Integration) mit Anti-Patterns | selbst erstellt |
 | [repo-learn-walkthrough-deepwiki](./repo-learn-walkthrough-deepwiki/) | DeepWiki-Caveman + AgbACheck Edition des Walkthrough-Generators | selbst erstellt |
-| [cavecrew](./cavecrew/) | Delegiert Teilaufgaben an Sub-Agents – spart Kontext | [OpenCode Built-in](https://opencode.ai) |
-| [caveman](./caveman/) | Ultra-kompakte Kommunikation (~75% weniger Token) | [OpenCode Built-in](https://opencode.ai) |
-| [caveman-commit](./caveman-commit/) | Komprimierte Commit-Messages im Conventional-Commits-Format | [OpenCode Built-in](https://opencode.ai) |
-| [caveman-compress](./caveman-compress/) | Komprimiert Memory-Files in Caveman-Format | [OpenCode Built-in](https://opencode.ai) |
-| [caveman-help](./caveman-help/) | Quick-Reference für alle Caveman-Modi | [OpenCode Built-in](https://opencode.ai) |
-| [caveman-review](./caveman-review/) | Ultra-kompakte Code-Review-Kommentare | [OpenCode Built-in](https://opencode.ai) |
-| [caveman-stats](./caveman-stats/) | Zeigt reale Token-Ersparnis der Caveman-Modi | [OpenCode Built-in](https://opencode.ai) |
+| [cavecrew](./cavecrew/) | Delegiert Teilaufgaben an Sub-Agents – spart Kontext | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) |
+| [caveman](./caveman/) | Ultra-kompakte Kommunikation (~75% weniger Token) | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) |
+| [caveman-commit](./caveman-commit/) | Komprimierte Commit-Messages im Conventional-Commits-Format | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) |
+| [caveman-compress](./caveman-compress/) | Komprimiert Memory-Files in Caveman-Format | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) |
+| [caveman-help](./caveman-help/) | Quick-Reference für alle Caveman-Modi | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) |
+| [caveman-review](./caveman-review/) | Ultra-kompakte Code-Review-Kommentare | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) |
+| [caveman-stats](./caveman-stats/) | Zeigt reale Token-Ersparnis der Caveman-Modi | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) |
 | [customize-opencode](./customize-opencode/) | Editiert Opencode-eigene Konfiguration | selbst erstellt |
 
 ## Installation
@@ -43,8 +43,8 @@ opencode-skills/
 ├── repo-to-comprehensive-walkthrough/  # Selbst erstellt
 ├── repo-learn-walkthrough-deepwiki/    # Selbst erstellt
 ├── customize-opencode/               # Selbst erstellt
-├── cavecrew/                         # OpenCode Built-in
-├── caveman/ + -commit, -compress, -help, -review, -stats  # OpenCode Built-in
+├── cavecrew/                         # JuliusBrussee/caveman
+├── caveman/ + -commit, -compress, -help, -review, -stats  # JuliusBrussee/caveman
 └── ...
 
 ## Lizenz
