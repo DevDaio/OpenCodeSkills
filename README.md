@@ -6,6 +6,7 @@ Sammlung von [OpenCode](https://opencode.ai) Skills.
 
 | Skill | Beschreibung | Autor |
 |-------|-------------|-------|
+| [stepwise](./stepwise/) | Projektphasen-Begleitung für das Invoice-Management (Spring Boot, JPA, Thymeleaf) | selbst erstellt |
 | [exercism-java](./exercism-java/) | Hilft beim Lösen von Exercism Java-Aufgaben durch Fragen statt fertige Lösungen | selbst erstellt |
 | [llm-council](./llm-council/) | Mehrere KI-Perspektiven auf eine Frage, Diskussion und Abstimmung | selbst erstellt |
 | [syntax-drill](./syntax-drill/) | Generiert Lückentext-Übungen für Java-Syntax-Training | selbst erstellt |
@@ -35,6 +36,7 @@ cp -r <skill-name> ~/.config/opencode/skills/
 ```
 opencode-skills/
 ├── README.md
+├── stepwise/                         # Selbst erstellt
 ├── exercism-java/                    # Selbst erstellt
 ├── llm-council/                      # Selbst erstellt
 ├── syntax-drill/                     # Selbst erstellt
